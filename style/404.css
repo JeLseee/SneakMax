@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: #4B59D2;
+    font-size: 75px;
+    font-family: Intro Bold;
+    font-style: normal;
+    margin: 0;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: #4B59D2;
+    font-size: 48px;
+    font-family: Intro Bold;
+    margin: 0;
+}
